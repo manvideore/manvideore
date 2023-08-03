@@ -15,7 +15,7 @@
 ### Current Status Quo:
 
 - 💼 I’m pursuing <strong>B Tech</strong> in <strong> Artificial Intelligence and Data Science</strong>.
-- 🔭 I’m currently working on <strong>Web3 and <strong>Data Analysis</strong>.
+- 🔭 I’m currently working on <strong>Data Anaysis and <strong>Visualization</strong>.
 - 🌱 I’m currently learning <strong>NLP</strong>.
 - 🤔 My research interests are with <strong>Automation</strong>
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
