@@ -25,12 +25,14 @@
 
 
 #### Things I code with
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">     <img src="https://img.shields.io/badge/dd%20-%23777BB4.svg?&style=for-the-badge&logo&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
 
-  <img src="https://img.shields.io/badge/Machine+learning%20-%23777BB4.svg?&style=for-the-badge&logo&logoColor=white">
+<img src="https://img.shields.io/badge/Machine+Learning%20-%23777BB4.svg?&style=for-the-badge&logo&logoColor=white">
+<img src="https://img.shields.io/badge/Deeep+Learning%20-%23E00033.svg?&style=for-the-badge&logo=ether&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 
- <img src="https://img.shields.io/badge/-manvideore2002@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+ 
 
 
 
